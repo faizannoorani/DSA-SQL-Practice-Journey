@@ -9,4 +9,5 @@
 | [0183-customers-who-never-order](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
