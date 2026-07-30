@@ -13,4 +13,8 @@
 | [0620-not-boring-movies](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/1148-article-views-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
