@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/faizannoorani/DSA-SQL-Practice-Journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
